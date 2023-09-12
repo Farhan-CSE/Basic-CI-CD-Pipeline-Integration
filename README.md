@@ -11,6 +11,14 @@ Understand the Architecture:
 
 ![Basic CICD Architecture](https://github.com/Farhan-CSE/Basic-CI-CD-Pipeline-Integration/assets/70094377/3f2940e9-3306-40f5-8b61-5eb8c10af650)
 
+For implementation of above pipeline, user must of be having knowledge of below tools and services:
+
+Instance and VMs - Intermediate
+Linux - Basics
+Networking - Basics
+GitHub (webhooks) - Basic
+Jenkins - Intermediate
+Bash Script - Basic
 
 Lets get started :
 
