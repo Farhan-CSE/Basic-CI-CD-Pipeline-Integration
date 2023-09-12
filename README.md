@@ -26,6 +26,11 @@ Lets get started :
 ✔ Developer makes changes to the project file in the cloned repo and pushes the code in you github.
 ✔ The updated code will be available in your github 
 ✔ Github webhooks sents a trigger to Jenkins which passes through server firewall and then triggers a Jenkins job if valid. Reference : how to use gihub webhooks ()
+
+In Jenkins :
+Login to jenkins through your browser with your instance ip and port 8080 and create a freestyle project. In SCM select git and give your github repo url. In Build trigger select github hook trigger for gitscm polling. Go to your github repo and in setting select webhook and in paylaod url give your jenkins url: (your ip):8080/github-webhook/ . Click add webhook your webhook is added.
+
+
 ✔ All credentials are encoded in script.
 ✔ Jenkins initiates auto project build and deployment via Bash Script.
 ✔ If the Jenkins job fails to execute build, an Email notification is sent to the developer team with error logs.
