@@ -9,7 +9,7 @@ Understand the Architecture:
 ✔ Jenkins will build and run the code via Bash script 
 ✔ User will be able to access the application through browser.
 
-![CICD Architecture](https://github.com/Farhan-CSE/Basic-CI-CD-Pipeline-Integration/assets/70094377/d085e622-ead2-4fe4-bda8-b9066689d612)
+![Basic CICD Architecture](https://github.com/Farhan-CSE/Basic-CI-CD-Pipeline-Integration/assets/70094377/3f2940e9-3306-40f5-8b61-5eb8c10af650)
 
 
 Lets get started :
