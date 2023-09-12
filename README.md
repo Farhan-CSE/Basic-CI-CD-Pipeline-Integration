@@ -13,12 +13,12 @@ Understand the Architecture:
 
 For implementation of above pipeline, user must of be having knowledge of below tools and services:
 
-Instance and VMs - Intermediate
-Linux - Basics
-Networking - Basics
-GitHub (webhooks) - Basic
-Jenkins - Intermediate
-Bash Script - Basic
+✔ Instance and VMs - Intermediate
+✔ Linux - Basics
+✔ Networking - Basics
+✔ GitHub (webhooks) - Basic
+✔ Jenkins - Intermediate
+✔ Bash Script - Basic
 
 Lets get started :
 
